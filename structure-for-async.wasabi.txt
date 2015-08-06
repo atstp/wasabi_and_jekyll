@@ -1,0 +1,18 @@
+jekyll_test/
+    index.html
+    example-1.html
+
+    example-2.html                 # this is the file you're looking at!
+
+    structure-for-async.wasabi.txt # this file was pulled to generate
+                                   # what you're looking at
+
+    _config.yml
+    css/
+        wasabi.css
+    _includes/
+        site-structure.html
+    _layouts/
+        default.html
+    js/
+        wasabi.js

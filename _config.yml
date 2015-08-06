@@ -1,0 +1,6 @@
+# Site settings
+url: "http://atstp.github.io"
+baseurl: "/wasabi_and_jekyll/"
+
+# Build settings
+markdown: kramdown
