@@ -1,8 +1,9 @@
-jekyll_test/
-    index.html
-    example-1.html
+wasabi_and_jekyll/
+    index.md
+    example-1.md
 
-    example-2.html                 # this is the file you're looking at!
+    example-2.md                   # this is the file you're looking at!
+                                   # (generated of course)
 
     structure-for-async.wasabi.txt # this file was pulled to generate
                                    # what you're looking at
